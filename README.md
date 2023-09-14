@@ -2,6 +2,7 @@
 aplicação com tabelas de distância entre capitais brasileiras 
 
 descrição: Foram utilizadas distancias de capiais
+<<<<<<< HEAD
 # Índice 
 
 * [Projeto para disyancias de capitais](#projeto-para-distancias-de-capitais)
@@ -28,3 +29,5 @@ Foram usados HTML e README
 [Leonardo Santiago](lista_de_cidades_e_distancias.pdf)
 ## Autores
 Antony
+=======
+>>>>>>> 26c7a265a366b8da04c2b09f91af8d4ccf96ad5d
