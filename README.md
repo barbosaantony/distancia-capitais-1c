@@ -38,7 +38,11 @@ Esse produto que mede distâncias entre capitais pode ser uma ferramenta útil p
 Medir distancias de capitais 
  
 ## Tecnologias Utilizadas
-Foram usados HTML e README
+* ``HTML5``
+* ``CSS3``
+* ``Github``
+* ``VSCode``
+* ``Git``
 
 ## Fontes Utilizadas 
 
