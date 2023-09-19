@@ -35,7 +35,7 @@ De todas as capitais apresentadas, foram dividas entre grupos de 4 pessoas. Nest
 ## fucionalidades
 Esse produto que mede distâncias entre capitais pode ser uma ferramenta útil para planejamento de viagens, geografia educacional ou até mesmo para profissionais que precisam calcular distâncias entre cidades em seus projetos, como urbanistas, logísticos e planejadores de transporte. Esse tipo de produto pode fornecer informações precisas sobre a distância em quilômetros ou milhas entre as capitais de diferentes países ou estados, facilitando o planejamento e a tomada de decisões relacionadas a deslocamentos e localização geográfica.
 
-Medir distancias de capitais 
+
  
 ## Tecnologias Utilizadas
 * ``HTML5``
