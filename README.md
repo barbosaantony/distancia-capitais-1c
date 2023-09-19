@@ -24,15 +24,17 @@ Este projeto teve como objetivo apresentar as distâncias entre as capitais bras
 
 De todas as capitais apresentadas, foram dividas entre grupos de 4 pessoas. Neste projeto, apresento a distância entre 7 capitais. As capitais constantes aqui são:
 
-- Capital 1 - Rio Branco
-- Capital 2 - Rio de Janeiro
-- Capital 3 - Salvador
-- Capital 4 - São Luis
-- Capial 5 - São paulo
-- Capital 6 - Teresina
-- Capital 7 - Vitória
+- ``Capital 1`` - Rio Branco
+- ``Capital 2`` - Rio de Janeiro
+- ``Capital 3`` - Salvador
+- ``Capital 4`` - São Luis
+- ``Capital 5`` - São paulo
+- ``Capital 6`` - Teresina
+- ``Capital 7`` - Vitória
 
 ## fucionalidades
+Esse produto que mede distâncias entre capitais pode ser uma ferramenta útil para planejamento de viagens, geografia educacional ou até mesmo para profissionais que precisam calcular distâncias entre cidades em seus projetos, como urbanistas, logísticos e planejadores de transporte. Esse tipo de produto pode fornecer informações precisas sobre a distância em quilômetros ou milhas entre as capitais de diferentes países ou estados, facilitando o planejamento e a tomada de decisões relacionadas a deslocamentos e localização geográfica.
+
 Medir distancias de capitais 
  
 ## Tecnologias Utilizadas
